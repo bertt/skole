@@ -7,8 +7,8 @@ https://sandcastle.cesium.com/
 Matrix:
 
 ```
-var lon = 10.25170920359802;
-var lat = 59.68476139117414;
+var lon =  10.25035;
+var lat = 59.686055;
 var height = 78.5;
 var location = Cesium.Cartesian3.fromDegrees(lon, lat, 0);
 var t = Cesium.Transforms.eastNorthUpToFixedFrame(location);
