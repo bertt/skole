@@ -16,3 +16,5 @@ const a = Cesium.Matrix4.transpose(t, new Cesium.Matrix4());
 console.log(a);
 ```
 
+Result: https://bertt.github.io/skole/
+
